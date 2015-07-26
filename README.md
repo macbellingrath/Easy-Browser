@@ -13,6 +13,6 @@ Embed Web Kit and learn about delegation, KVO, classes and UIToolbar.
   <li>Key-value observing</li>
 </ul>
 ##Screen Shots##
-<img src="https://github.com/macbellingrath/Flags/blob/master/1.png" alt="Loading screen" height=667  width=375></img>
-<img src="https://github.com/macbellingrath/Flags/blob/master/1.png" alt="Loading screen" height=667  width=375></img>
-<img src="https://github.com/macbellingrath/Flags/blob/master/1.png" alt="Loading screen" height=667  width=375></img>
+<img src="https://github.com/macbellingrath/Easy-Browser/blob/master/1.png" alt="1" height=667  width=375></img>
+<img src="https://github.com/macbellingrath/Easy-Browser/blob/master/2.png" alt="2" height=667  width=375></img>
+<img src="https://github.com/macbellingrath/Easy-Browser/blob/master/3.png" alt="3" height=667  width=375></img>
