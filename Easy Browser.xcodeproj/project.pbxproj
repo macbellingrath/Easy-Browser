@@ -15,6 +15,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E68B00551B654DF50081F0ED /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		E68B00561B654DF50081F0ED /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E68B00571B654DF50081F0ED /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		E6926B051B653C3C000972DA /* Easy Browser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Easy Browser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6926B081B653C3C000972DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6926B0A1B653C3C000972DA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +43,9 @@
 			children = (
 				E6926B071B653C3C000972DA /* Easy Browser */,
 				E6926B061B653C3C000972DA /* Products */,
+				E68B00551B654DF50081F0ED /* 3.png */,
+				E68B00561B654DF50081F0ED /* 2.png */,
+				E68B00571B654DF50081F0ED /* 1.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -283,6 +289,7 @@
 				E6926B191B653C3C000972DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
